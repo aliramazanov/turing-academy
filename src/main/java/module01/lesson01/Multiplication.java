@@ -1,4 +1,4 @@
-package main.java.module01.lesson1;
+package main.java.module01.lesson01;
 
 public class Multiplication {
     public static void main(String[] args) {
