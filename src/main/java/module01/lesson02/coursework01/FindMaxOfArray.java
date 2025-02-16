@@ -1,5 +1,4 @@
 package main.java.module01.lesson02.coursework01;
-
 import java.util.Scanner;
 
 public class FindMaxOfArray {
