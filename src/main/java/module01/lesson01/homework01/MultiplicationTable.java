@@ -1,4 +1,4 @@
-package main.java.module01.lesson01;
+package main.java.module01.lesson01.homework01;
 
 public class MultiplicationTable {
     public static void main(String[] args) {
