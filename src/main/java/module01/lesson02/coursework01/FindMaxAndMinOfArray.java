@@ -2,7 +2,7 @@ package main.java.module01.lesson02.coursework01;
 
 import java.util.Scanner;
 
-public class FindMaxOfArray {
+public class FindMaxAndMinOfArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

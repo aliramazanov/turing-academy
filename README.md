@@ -1,3 +1,3 @@
 # Java Program by Turing Academy
 
-This repository contains exercies done while attending lessons or as homework.
+This repository contains exercises done while attending lessons or as homework.
