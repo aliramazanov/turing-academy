@@ -15,20 +15,22 @@ public class NumberGuesser {
 
         Random rand = new Random();
 
-        int random = rand.nextInt(100) + 1;
+        int random = rand.nextInt(0, 100);
         int input = sc.nextInt();
 
-        if (input < 0 | input > 100) {
-            System.out.println("Invalid input. It should be between 0 and 100");
-        }
 
         while (random != input) {
 
-            if (input > random) {
-                System.out.println("Your number is too big. Please, try again.");
+            if (input < 0 | input > 100) {
+                System.out.println("Invalid input. It should be between 0 and 100");
             } else {
-                System.out.println("Your number is too small. Please, try again.");
+                if (input > random) {
+                    System.out.println("Your number is too big. Please, try again.");
+                } else {
+                    System.out.println("Your number is too small. Please, try again.");
+                }
             }
+
 
             input = sc.nextInt();
         }
