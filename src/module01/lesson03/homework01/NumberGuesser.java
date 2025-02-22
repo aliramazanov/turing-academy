@@ -36,5 +36,4 @@ public class NumberGuesser {
         System.out.println("Congratulations " + name + "!");
         sc.close();
     }
-
 }
