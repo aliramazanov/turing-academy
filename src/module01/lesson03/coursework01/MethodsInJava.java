@@ -1,4 +1,4 @@
-package main.java.module01.lesson03.coursework01;
+package module01.lesson03.coursework01;
 
 public class MethodsInJava {
 

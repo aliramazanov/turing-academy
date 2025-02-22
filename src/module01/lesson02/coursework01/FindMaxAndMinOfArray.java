@@ -1,8 +1,9 @@
-package main.java.module01.lesson02.coursework01;
+package module01.lesson02.coursework01;
 
 import java.util.Scanner;
 
 public class FindMaxAndMinOfArray {
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
@@ -28,5 +29,7 @@ public class FindMaxAndMinOfArray {
 
         System.out.println("Maximum: " + max);
         System.out.println("Minimum: " + min);
+
+        scanner.close();
     }
 }

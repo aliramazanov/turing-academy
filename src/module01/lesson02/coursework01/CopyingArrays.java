@@ -1,4 +1,4 @@
-package main.java.module01.lesson02.coursework01;
+package module01.lesson02.coursework01;
 
 import java.util.Arrays;
 
