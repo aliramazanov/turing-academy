@@ -1,4 +1,4 @@
-package module01.task02;
+package module01.problemsolvingtasks.task03;
 
 import java.util.Scanner;
 

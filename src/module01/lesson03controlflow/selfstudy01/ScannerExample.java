@@ -1,4 +1,4 @@
-package module01.lesson02.selfstudy01;
+package module01.lesson03controlflow.selfstudy01;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package module01.lesson03.homework01;
+package module01.problemsolvingtasks.task01;
 
 import java.util.Random;
 import java.util.Scanner;

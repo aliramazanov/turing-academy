@@ -1,4 +1,4 @@
-package module01.lesson02.coursework01;
+package module01.lesson04arrays.coursework01;
 
 public class Arrays {
 

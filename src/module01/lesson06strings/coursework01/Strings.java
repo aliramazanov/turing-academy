@@ -1,4 +1,4 @@
-package module01.lesson04.coursework01;
+package module01.lesson06strings.coursework01;
 
 public class Strings {
 
