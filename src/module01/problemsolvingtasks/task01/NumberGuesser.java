@@ -18,7 +18,6 @@ public class NumberGuesser {
         int random = rand.nextInt(0, 100);
         int input = sc.nextInt();
 
-
         while (random != input) {
 
             if (input < 0 | input > 100) {

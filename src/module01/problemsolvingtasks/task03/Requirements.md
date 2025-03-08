@@ -19,7 +19,7 @@ You will need to write a "week planner" program
        The user enters a correct weekday (e.g. `Monday`) ,
        the program outputs: `Your tasks for Monday: go to courses; watch a film.`;
        Then the program goes to the next iteration.
-    2) Please, input the day of the week: 
+    2) Please, input the day of the week:
        The user enters a non-valid weekday (e.g. `%$=+!11=4`)    
        the program outputs: `Sorry, I don't understand you, please try again.`; the program goes to the next iteration
        until the user enters a valid weekday
@@ -38,7 +38,7 @@ or `reschedule [day of the week]`, the program offers to enter new tasks for a g
 the appropriate cell of the array, while removing the old tasks. After that the program goes onto the next iteration
 before the user enters `exit `.
 
-- Please, input the day of the week: 
+- Please, input the day of the week:
     - the user enters change Monday
     - the program suggests to enter new tasks for monday`Please, input new tasks for Monday.`
     - the user enters new tasks in the console

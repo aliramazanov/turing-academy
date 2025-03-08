@@ -13,3 +13,4 @@ public class MultiDimArray {
         System.out.println(arr[1][0][1]);
     }
 }
+

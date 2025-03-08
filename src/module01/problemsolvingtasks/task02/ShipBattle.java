@@ -28,7 +28,6 @@ public class ShipBattle {
                 continue;
             }
 
-
             boolean isHit = (rowIndex == targetRow && colIndex == targetCol);
 
             if (isHit) {
